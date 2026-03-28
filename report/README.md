@@ -1,71 +1,121 @@
-# 💻 CSE0001 - Digital Literacy Project 
-### Student Digital Ambassador Portfolio 
+# 📘 Digital Literacy & Cyber Awareness Portfolio
 
-## 👤 Author Information 
+## 👩‍💻 Author
 
- • Name: AVNI GUPTA
- 
+# Avni Gupta
  • 🎓 Branch: Computer Science Engineering (CSE) Core
  
  • 🏛️ Institution: VIT Bhopal University
  
  • 📚 Course: CSE0001 - Digital Literacy
-*Digital Literacy and Professional Development Project*
-<br>
-This repository contains a comprehensive collection of tasks focused on digital literacy, professional communication, and online safety. The project is authored by Avni Gupta, a BTech student at VIT Bhopal University.
-<br>
-📑 Table of Contents
-Task 1: Digital Literacy Awareness Infographic
 
-Task 2: Student Digital Portfolio
+### This repository showcases a collection of tasks focused on digital literacy, online safety, professional communication, and coding platforms. Each task highlights essential skills required for students in the digital age.
 
-Task 3: Coding & Collaboration Platforms
-
-Task 4: Professional Email & Social Media Etiquette
-
-Task 5: Cybercrime Awareness Case Study
-
-Task 1: Digital Literacy Awareness Infographic
-
-Objective: Create an educational resource to define and promote digital literacy.
+## 📌 Table of Contents
+### Task 1: Digital Literacy Infographic
+### Task 2: Student Digital Portfolio
+### Task 3: Coding & Collaboration Platforms
+### Task 4: Email Etiquette & Social Media Guide
+### Task 5: Cybercrime Awareness
 
 
-Core Topics: What digital literacy is, useful tools for students, safe internet practices, and email etiquette.
+# 🎨 Task 1: Digital Literacy Infographic
+
+Created an infographic covering:
+
+What is Digital Literacy
+Useful digital tools for students
+Safe internet practices
+Email etiquette basics
+
+### 📄 File: task-1-presentation.pdf
 
 
-Safe Practices: Use strong passwords, never share OTPs, and avoid suspicious links.
+# 💼 Task 2: Student Digital Portfolio
+
+Built and organized an online professional presence:
+
+GitHub profile with README introduction
+Kaggle account
+LinkedIn profile
+
+### 📄 File: task-2-portfolio.pdf
+
+# 💻 Task 3: Coding & Collaboration Platforms
+## 🔹 Part A: Coding Practice
+
+Explored platforms for:
+
+Coding practice
+Skill development
+Problem-solving
+## 🔹 Part B: Google Workspace Collaboration
+Created a Google Form
+Shared and analyzed responses
+
+### 📄 Files:
+
+task-3-platforms.pdf
+task-3-platforms-responseview.pdf
+
+## 🔗 Google Form Link:
+https://docs.google.com/forms/d/e/1FAIpQLSfRAMudgzHi9foAPhUyWCEwNk_AWhIT4PTIJsPzw9eEWqWzkw/viewform?usp=publish-editor
 
 
-Recommended Tools: Canva, Google Docs, Zoom, and YouTube.
+# ✉️ Task 4: Email Etiquette & Social Media Guide
+## 🔹 Part A: Professional Emails
 
-Task 2: Student Digital Portfolio
-Objective: Establish a professional online presence across multiple platforms.
-GitHub: Profile created (AvniGupta-09) featuring a README introduction.
-LinkedIn: Professional profile established for networking and career discovery.
-Kaggle: Account set up for data science learning and portfolio building.
+Drafted:
 
-Task 3: Coding & Collaboration Platforms
-Objective: Demonstrate technical proficiency and collaborative skills.
-<br>
-Part A (Coding Practice): Successful completion of coding challenges, including a "Hello World" Python implementation.
-Part B (Google Workspace): Designed a "Digital Literacy Awareness" quiz using Google Forms to test knowledge on safe internet practices. Also my Google Form LInk https://docs.google.com/forms/d/e/1FAIpQLSfRAMudgzHi9foAPhUyWCEwNk_AWhIT4PTIJsPzw9eEWqWzkw/viewform?usp=publish-editor
+Request for assignment deadline extension
+Internship application email
+## 🔹 Part B: Social Media Checklist
 
+✅ Do’s
 
-Task 4: Professional Email & Social Media Etiquette
-Objective: Draft professional communication guides and templates.
-Email Templates: Includes a request for an assignment extension and an internship inquiry.
-Social Media Checklist: 
-* Do's: Respectful communication, verifying information, and protecting personal data.
-* Don'ts: Sharing fake news, posting offensive content, and engaging in online arguments
+Think before posting
+Communicate respectfully
+Protect personal information
+Verify information before sharing
+Use professional language
 
+❌ Don’ts
 
+Avoid fake or unverified news
+Do not post harmful content
+Do not overshare personal details
+Avoid online arguments
+Do not misuse others’ content
 
-Task 5: Cybercrime Awareness Case Study
+### 📄 Files:
 
-Objective: Analyze common cybercrimes and provide prevention strategies.
-
-
-Focus: UPI Fraud: A case study on one of India's most common cybercrimes targeting students and new internet users.
+task-4-email-etiquette.pdf
+task-4-social-media-checklist.pdf
 
 
-Prevention Tips: Never scan unknown QR codes to receive money and never disclose UPI PINs or OTPs to anyone
+# 🔐 Task 5: Cybercrime Awareness
+## 📖 Case Study: UPI Fraud
+Common scam targeting students and new users
+Fraudsters trick users via calls, SMS, or QR codes
+Victims may unknowingly share:
+UPI PIN
+OTP
+⚠️ Key Learnings
+Never share confidential details
+Scanning QR codes can deduct money
+Always verify sources before transactions
+🛡️ Prevention Tips
+Stay informed about scams
+Double-check payment requests
+Use secure and trusted platforms
+
+### 📄 File: task-5-cybercrime.pdf
+
+# 🚀 Conclusion
+
+This portfolio demonstrates awareness and practical knowledge of:
+
+Digital literacy
+Online safety
+Professional communication
+Cybersecurity basics
