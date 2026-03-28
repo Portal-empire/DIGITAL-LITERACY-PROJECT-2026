@@ -1,4 +1,16 @@
-#Digital Literacy and Professional Development Project
+# 💻 CSE0001 - Digital Literacy Project 
+### Student Digital Ambassador Portfolio 
+
+## 👤 Author Information 
+
+ • Name: AVNI GUPTA
+ 
+ • 🎓 Branch: Computer Science Engineering (CSE) Core
+ 
+ • 🏛️ Institution: VIT Bhopal University
+ 
+ • 📚 Course: CSE0001 - Digital Literacy
+*Digital Literacy and Professional Development Project*
 <br>
 This repository contains a comprehensive collection of tasks focused on digital literacy, professional communication, and online safety. The project is authored by Avni Gupta, a BTech student at VIT Bhopal University.
 <br>
