@@ -1,5 +1,7 @@
-Digital Literacy and Professional Development Project
+#Digital Literacy and Professional Development Project
+<br>
 This repository contains a comprehensive collection of tasks focused on digital literacy, professional communication, and online safety. The project is authored by Avni Gupta, a BTech student at VIT Bhopal University.
+<br>
 📑 Table of Contents
 Task 1: Digital Literacy Awareness Infographic
 
