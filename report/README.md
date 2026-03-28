@@ -32,8 +32,9 @@ Kaggle: Account set up for data science learning and portfolio building.
 
 Task 3: Coding & Collaboration Platforms
 Objective: Demonstrate technical proficiency and collaborative skills.
+<br>
 Part A (Coding Practice): Successful completion of coding challenges, including a "Hello World" Python implementation.
-Part B (Google Workspace): Designed a "Digital Literacy Awareness" quiz using Google Forms to test knowledge on safe internet practices.
+Part B (Google Workspace): Designed a "Digital Literacy Awareness" quiz using Google Forms to test knowledge on safe internet practices. Also my Google Form LInk https://docs.google.com/forms/d/e/1FAIpQLSfRAMudgzHi9foAPhUyWCEwNk_AWhIT4PTIJsPzw9eEWqWzkw/viewform?usp=publish-editor
 
 
 Task 4: Professional Email & Social Media Etiquette
